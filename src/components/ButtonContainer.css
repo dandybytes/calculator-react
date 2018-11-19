@@ -10,3 +10,15 @@
     'one two three add'
     'zero zero zero equal';
 }
+
+@media screen and (min-width: 580px) {
+  .button-container {
+    grid-gap: 1.4vh;
+  }
+}
+
+@media screen and (orientation: landscape) {
+  .button-container {
+    grid-gap: 1.4vh;
+  }
+}
