@@ -4,7 +4,7 @@ import "./Screen.css";
 const Screen = () => {
   return (
     <section className="screen-container">
-      <div className="screen">SCREEN</div>
+      <div className="screen">012345678912345</div>
     </section>
   );
 };

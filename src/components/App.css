@@ -6,6 +6,7 @@ main {
   justify-content: space-around;
   background-color: #1D2C49;
   padding: 3vw;
+  box-shadow: 0 0 1rem #666;
 }
 
 
