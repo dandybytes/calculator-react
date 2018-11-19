@@ -1,0 +1,19 @@
+___________________________
+VERSION 1
+---------------------------
+Simple calculator that processes operations one by one.
+Displays only one number (up to 15 digits) on the screen.
+Operations: +, -, *, /, clear, backspace, =
+Max digits: 15
+
+
+___________________________
+VERSION 2
+---------------------------
+The calculator can process a string of operations.
+Displays the entire input string (both numbers and operations) on the screen.
+Operators: +, -, *, /, clear, backspace, decimal point, parentheses, (square root)
+Max digits (incl decimal point): 15
+Max fractional digits (after decimal point): 10
+Max operations: 20
+Size of characters on screen adapts to fit

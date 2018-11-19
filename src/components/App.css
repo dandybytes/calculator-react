@@ -1,0 +1,11 @@
+main {
+  min-width: 300px;
+  width: 84vw;
+  min-height: 400px;
+  height: 112vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: #1D2C49;
+  padding: 3vw;
+}
